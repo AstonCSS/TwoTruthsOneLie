@@ -14,9 +14,10 @@ I can speak fluent Klingon.
 
 <!-- ⬇️ COPY THE TEMPLATE BELOW THIS LINE ⬇️ -->
 
-[Your Full Name]
-Statement 1
+Hafsa Sabed
 
-Statement 2
+I visited the Pyramids of Giza last year
 
-Statement 3
+I broke my right Foot while playing Badminton
+
+I got expelled in my 1st year of uni for one module
