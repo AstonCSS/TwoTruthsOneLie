@@ -20,3 +20,10 @@ Statement 1
 Statement 2
 
 Statement 3
+
+Hannah Hoang
+I am 23.
+
+I have 2 cats.
+
+I love travelling.
