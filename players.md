@@ -14,9 +14,9 @@ I can speak fluent Klingon.
 
 <!-- ⬇️ COPY THE TEMPLATE BELOW THIS LINE ⬇️ -->
 
-[Your Full Name]
-Statement 1
+Abdulhadhi Lone
+i am legally indian
 
-Statement 2
+i used to have pet chickens
 
-Statement 3
+most of the money in my bank account doesn't belong to me
