@@ -14,9 +14,10 @@ I can speak fluent Klingon.
 
 <!-- ⬇️ COPY THE TEMPLATE BELOW THIS LINE ⬇️ -->
 
-[Your Full Name]
-Statement 1
+[Pratham Patel]
+I once temporarily couldn't move my hands after falling down roller-skating
 
-Statement 2
+i can clap one-handedly
 
-Statement 3
+I lived in Bruges until I was 5
+
