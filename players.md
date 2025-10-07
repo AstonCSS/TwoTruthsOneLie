@@ -12,7 +12,7 @@ I can speak fluent Klingon.
 
 -->
 
-<!-- ⬇️ COPY THE TEMPLATE BELOW THIS LINE ⬇️ -->
+<!-- ⬇️ COPY THE TEMPLATE BELOW THIS LINE ⬇️ -
 
 Mehvish Mirza
 Statement 1 my middle name is lauren 
