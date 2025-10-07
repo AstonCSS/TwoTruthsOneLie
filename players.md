@@ -14,9 +14,14 @@ Im scared of the ocean and space
 
 <!-- ⬇️ COPY THE TEMPLATE BELOW THIS LINE ⬇️ -->
 
-[Your Full Name]
-Statement 1
 
-Statement 2
+<!--
 
-Statement 3
+Lida
+all of my organs will be harvested once I die
+
+a picture of my hand is in someone's hand collection
+
+Im scared of the ocean and space
+
+-->
