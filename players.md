@@ -3,12 +3,12 @@ Welcome, players! Please add your entry to the list below by creating a Pull Req
 
 <!--
 
-Sameer (Example)
-I have climbed Mount Fuji.
+anonymous
+all of my organs will be harvested once I die
 
-I once won a hot-dog eating contest.
+a picture of my hand is in someone's hand collection
 
-I can speak fluent Klingon.
+im scared of the ocean and space
 
 -->
 
