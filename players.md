@@ -7,6 +7,13 @@ Welcome, players! Please add your entry to the list below by creating a Pull Req
 
 <!-- ⬇️ COPY THE TEMPLATE BELOW THIS LINE ⬇️ -->
 
+Jay Dallaway
+I am (mostly) blind in one eye.
+
+I can give tarot card readings.
+
+I have totalled my car.
+
 [Antoni Kisiecki]
 
 I have attempted to create my own language.
