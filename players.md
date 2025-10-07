@@ -14,9 +14,9 @@ I can speak fluent Klingon.
 
 <!-- ⬇️ COPY THE TEMPLATE BELOW THIS LINE ⬇️ -->
 
-[Your Full Name]
-Statement 1
+Sami Fazeli
+Statement 1: I like board games
 
-Statement 2
+Statement 2: I played judo before
 
-Statement 3
+Statement 3: I hate maths
