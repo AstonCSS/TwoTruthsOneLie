@@ -15,8 +15,9 @@ I can speak fluent Klingon.
 <!-- ⬇️ COPY THE TEMPLATE BELOW THIS LINE ⬇️ -->
 
 Abdulhadhi Lone
+
 i am legally indian
 
 i used to have pet chickens
 
-most of the money in my bank account doesn't belong to me
+i grew about 3 inches taller in 6 weeks
