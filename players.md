@@ -14,9 +14,9 @@ I can speak fluent Klingon.
 
 <!-- ⬇️ COPY THE TEMPLATE BELOW THIS LINE ⬇️ -->
 
-[Your Full Name]
-Statement 1
+Mehvish Mirza
+Statement 1 my middle name is lauren 
 
-Statement 2
+Statement 2 when i was 6 years old, i won a camera in a competition 
 
-Statement 3
+Statement 3 i wanted to be a firefighter when i was younger
