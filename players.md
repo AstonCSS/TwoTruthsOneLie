@@ -14,9 +14,9 @@ I can speak fluent Klingon.
 
 <!-- ⬇️ COPY THE TEMPLATE BELOW THIS LINE ⬇️ -->
 
-[Your Full Name]
-Statement 1
+[Helah]
+I went to Germany
 
-Statement 2
+I have 10k in savings 
 
-Statement 3
+I went to istanbul
