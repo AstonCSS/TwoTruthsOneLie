@@ -14,9 +14,9 @@ I can speak fluent Klingon.
 
 <!-- ⬇️ COPY THE TEMPLATE BELOW THIS LINE ⬇️ -->
 
-[Your Full Name]
-Statement 1
+M K
+I eat my pizza without the base sauce.
 
-Statement 2
+The top drawer of my bedside table is filled with chalk powder to the top.
 
-Statement 3
+I have been attacked by a peacock at one point.
