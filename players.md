@@ -14,9 +14,11 @@ I can speak fluent Klingon.
 
 <!-- ⬇️ COPY THE TEMPLATE BELOW THIS LINE ⬇️ -->
 
-[Your Full Name]
-Statement 1
+Danny Dosanjh
 
-Statement 2
+im 5'5 on a good day
 
-Statement 3
+im broke asl
+
+ive been to spain 3 times
+
