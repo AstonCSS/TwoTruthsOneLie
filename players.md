@@ -14,9 +14,9 @@ I can speak fluent Klingon.
 
 <!-- ⬇️ COPY THE TEMPLATE BELOW THIS LINE ⬇️ -->
 
-[Your Full Name]
-Statement 1
+[Antoni Kisiecki]
+I have attempted to create my own language.
 
-Statement 2
+I have created a Rube Goldberg mechanism.
 
-Statement 3
+I have created a Paper Mario diorama.
