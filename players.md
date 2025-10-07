@@ -20,3 +20,9 @@ Statement 1
 Statement 2
 
 Statement 3
+
+Sam Imani
+
+-   I've known python since I was 10
+-   I'm head developer for a game
+-   I was born in the UK
