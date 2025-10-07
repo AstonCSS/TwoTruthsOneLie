@@ -14,9 +14,9 @@ I can speak fluent Klingon.
 
 <!-- ⬇️ COPY THE TEMPLATE BELOW THIS LINE ⬇️ -->
 
-[Your Full Name]
-Statement 1
+[Sameer]
+Statement 1: im a liverpool fan
 
-Statement 2
+Statement 2: i love my long hair
 
-Statement 3
+Statement 3: i hate amir 
