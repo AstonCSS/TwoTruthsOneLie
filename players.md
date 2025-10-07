@@ -32,6 +32,13 @@ I have created a Rube Goldberg mechanism.
 I have created a Paper Mario diorama.
 
 
+Sami Fazeli
+Statement 1: I like board games
+
+Statement 2: I played judo before
+
+Statement 3: I hate maths
+
 Sam Imani
 
 -   I've known python since I was 10
