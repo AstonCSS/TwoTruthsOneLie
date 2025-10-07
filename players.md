@@ -1,14 +1,7 @@
 Two Truths, One Lie: The Player List
 Welcome, players! Please add your entry to the list below by creating a Pull Request.
 
-<!--
 
-Sameer (Example)
-I have climbed Mount Fuji.
-
-I once won a hot-dog eating contest.
-
-I can speak fluent Klingon.
 
 -->
 
@@ -28,3 +21,9 @@ Sam Imani
 -   I've known python since I was 10
 -   I'm head developer for a game
 -   I was born in the UK
+
+Mohammad Mohammad
+
+I am studying PhD
+I am not a pizza chef
+I can speak English, Arabic, Turkish, Swedish
