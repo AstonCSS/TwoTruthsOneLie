@@ -14,9 +14,9 @@ I can speak fluent Klingon.
 
 <!-- ⬇️ COPY THE TEMPLATE BELOW THIS LINE ⬇️ -->
 
-[Your Full Name]
-Statement 1
+[Mathias & Dylan]
+We both study Computer Science
 
-Statement 2
+We both did A levels
 
-Statement 3
+We both failed Spanish GCSE's
