@@ -8,7 +8,7 @@ all of my organs will be harvested once I die
 
 a picture of my hand is in someone's hand collection
 
-im scared of the ocean and space
+Im scared of the ocean and space
 
 -->
 
