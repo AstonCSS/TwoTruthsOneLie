@@ -14,9 +14,9 @@ I can speak fluent Klingon.
 
 <!-- ⬇️ COPY THE TEMPLATE BELOW THIS LINE ⬇️ -->
 
-[Your Full Name]
-Statement 1
+Aleksandr Fomkin
+I own a cat
 
-Statement 2
+I have 2 siblings
 
-Statement 3
+I have a younger brother
