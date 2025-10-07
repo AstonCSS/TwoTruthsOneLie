@@ -14,9 +14,10 @@ I can speak fluent Klingon.
 
 <!-- ⬇️ COPY THE TEMPLATE BELOW THIS LINE ⬇️ -->
 
-[Your Full Name]
-Statement 1
+Abdulhadhi Lone
 
-Statement 2
+i am legally indian
 
-Statement 3
+i used to have pet chickens
+
+i grew about 3 inches taller in 6 weeks
