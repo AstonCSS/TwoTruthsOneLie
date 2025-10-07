@@ -7,6 +7,13 @@ Welcome, players! Please add your entry to the list below by creating a Pull Req
 
 <!-- ⬇️ COPY THE TEMPLATE BELOW THIS LINE ⬇️ -->
 
+Aleksandr Fomkin
+I own a cat
+
+I have 2 siblings
+
+I have a younger brother
+
 Jay Dallaway
 I am (mostly) blind in one eye.
 
