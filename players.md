@@ -14,9 +14,9 @@ I can speak fluent Klingon.
 
 <!-- ⬇️ COPY THE TEMPLATE BELOW THIS LINE ⬇️ -->
 
-[Your Full Name]
-Statement 1
+[Francesco Brasoveanu]
+I met Connor Mcgregor in an elevator in turkey once
 
-Statement 2
+I have never broken a bone
 
-Statement 3
+I have visited over 5 countries
