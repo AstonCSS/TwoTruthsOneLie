@@ -14,9 +14,9 @@ I can speak fluent Klingon.
 
 <!-- ⬇️ COPY THE TEMPLATE BELOW THIS LINE ⬇️ -->
 
-[Your Full Name]
-Statement 1
+[Ifrah Dudub]
+I have 12 cats
 
-Statement 2
+I can skateboard
 
-Statement 3
+I can swim
