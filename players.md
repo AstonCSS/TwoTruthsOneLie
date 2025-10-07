@@ -14,7 +14,7 @@ I can speak fluent Klingon.
 
 <!-- ⬇️ COPY THE TEMPLATE BELOW THIS LINE ⬇️ -->
 
-Ahmiada Busheha /n
+Ahmiada Busheha
 I have broken my arm when I was younger
 
 I have met Radzi from Blue Peter
