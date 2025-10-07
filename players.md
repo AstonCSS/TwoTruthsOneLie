@@ -3,7 +3,7 @@ Welcome, players! Please add your entry to the list below by creating a Pull Req
 
 <!--
 
-anonymous
+Lida
 all of my organs will be harvested once I die
 
 a picture of my hand is in someone's hand collection
