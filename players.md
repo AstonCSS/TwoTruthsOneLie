@@ -3,20 +3,12 @@ Welcome, players! Please add your entry to the list below by creating a Pull Req
 
 <!--
 
-Sameer (Example)
-I have climbed Mount Fuji.
+Mohammad Mohammad
 
-I once won a hot-dog eating contest.
+I am studying PhD
 
-I can speak fluent Klingon.
+I can speak English, Arabic, Turkish, Swedish
+
+I am not a pizza chef
 
 -->
-
-<!-- ⬇️ COPY THE TEMPLATE BELOW THIS LINE ⬇️ -->
-
-[Your Full Name]
-Statement 1
-
-Statement 2
-
-Statement 3
