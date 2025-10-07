@@ -14,9 +14,9 @@ I can speak fluent Klingon.
 
 <!-- ⬇️ COPY THE TEMPLATE BELOW THIS LINE ⬇️ -->
 
-[Your Full Name]
-Statement 1
+Jay Dallaway
+I am (mostly) blind in one eye.
 
-Statement 2
+I can give tarot card readings.
 
-Statement 3
+I have totalled my car.
