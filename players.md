@@ -14,9 +14,9 @@ I can speak fluent Klingon.
 
 <!-- ⬇️ COPY THE TEMPLATE BELOW THIS LINE ⬇️ -->
 
-[Your Full Name]
-Statement 1
+Rehana Ria
+i heavily fw coding
 
-Statement 2
+I did a summer internship during my first year
 
-Statement 3
+I am amazing at baking
