@@ -14,9 +14,9 @@ I can speak fluent Klingon.
 
 <!-- ⬇️ COPY THE TEMPLATE BELOW THIS LINE ⬇️ -->
 
-Ahmiada Busheha
-I have broken my arm when I was younger
+Ld Farquad
+I have seasoned shrek from reaching Fionna.
 
-I have met Radzi from Blue Peter
+I have broken my limbs from previous battles.
 
-I hate walking
+I am the ruler of the land Far Far AWAY.
